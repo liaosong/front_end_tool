@@ -1,0 +1,7 @@
+node_modules/
+.DS_Store
+test_data/
+log/
+public/uploads/
+dist/
+deps/
